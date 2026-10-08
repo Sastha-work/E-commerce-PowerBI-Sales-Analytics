@@ -1,5 +1,7 @@
 # Walmart E-Commerce Sales Analytics Dashboard
 
+> **Disclaimer:** The dataset used in this project is a **synthetically generated dataset created with the assistance of AI for educational and portfolio purposes**. It is not an official Walmart dataset and is not intended to represent Walmart's actual sales, customers, products, financial performance, or business operations. All analysis, metrics, and insights presented in this project are based solely on the synthetic dataset.
+
 An interactive E-Commerce Sales Analytics Dashboard built using Microsoft Power BI to analyze sales performance, profitability, customer behavior, product performance, and store-level trends.
 
 ## Project Overview
@@ -31,6 +33,7 @@ The dashboard was designed to transform raw transactional data into meaningful b
 ## Dashboard Pages
 
 ### 1. Executive Overview
+
 Provides a high-level view of overall business performance including:
 
 - Total Revenue
@@ -47,6 +50,7 @@ Provides a high-level view of overall business performance including:
 - Customer Demographics
 
 ### 2. Sales Analysis
+
 Focuses on revenue and profitability trends:
 
 - Revenue & Profit Trends
@@ -58,6 +62,7 @@ Focuses on revenue and profitability trends:
 - Monthly Sales Performance
 
 ### 3. Customer Analytics
+
 Analyzes customer behavior and demographics:
 
 - Total Customers
@@ -71,6 +76,7 @@ Analyzes customer behavior and demographics:
 - Top Customers
 
 ### 4. Product Analysis
+
 Analyzes product and brand performance:
 
 - Total Products
@@ -84,7 +90,8 @@ Analyzes product and brand performance:
 - Order Status
 
 ### 5. Store & Geography
-Provides geographical and store-level analysis:
+
+Provides store-level and geographical analysis:
 
 - Sales by State
 - Sales by City
